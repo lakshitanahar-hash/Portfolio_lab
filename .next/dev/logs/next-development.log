@@ -1,0 +1,129 @@
+[00:00:03.255] Server  LOG     ✓ Ready in 2.3s
+[00:00:10.331] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:07.699] Server  LOG     ✓ Compiled in 122ms
+[00:41:08.315] Browser ERROR   ./Desktop/portfolio builder/app/page.js:4:8
+Ecmascript file had an error
+  2 | import React, { useState, useEffect, useRef, useMemo } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import React, { useState, useEffect } from 'react';
+    |        ^^^^^
+  5 |
+  6 | // ==========================================================
+  7 | // 1. THE ARCHITECT RENDERER (Supports All 7 References)
+
+the name `React` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/portfolio builder/app/page.js [Client Component Browser]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./Desktop/portfolio builder/app/page.js [Client Component SSR]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+[00:41:08.315] Browser ERROR   ./Desktop/portfolio builder/app/page.js:4:27
+Ecmascript file had an error
+  2 | import React, { useState, useEffect, useRef, useMemo } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import React, { useState, useEffect } from 'react';
+    |                           ^^^^^^^^^
+  5 |
+  6 | // ==========================================================
+  7 | // 1. THE ARCHITECT RENDERER (Supports All 7 References)
+
+the name `useEffect` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/portfolio builder/app/page.js [Client Component Browser]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./Desktop/portfolio builder/app/page.js [Client Component SSR]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+[00:41:08.315] Browser ERROR   ./Desktop/portfolio builder/app/page.js:4:17
+Ecmascript file had an error
+  2 | import React, { useState, useEffect, useRef, useMemo } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import React, { useState, useEffect } from 'react';
+    |                 ^^^^^^^^
+  5 |
+  6 | // ==========================================================
+  7 | // 1. THE ARCHITECT RENDERER (Supports All 7 References)
+
+the name `useState` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/portfolio builder/app/page.js [Client Component Browser]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./Desktop/portfolio builder/app/page.js [Client Component SSR]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+[00:42:57.807] Server  LOG     ✓ Compiled in 37ms
+[00:42:58.310] Browser ERROR   ./Desktop/portfolio builder/app/page.js:4:8
+Ecmascript file had an error
+  2 | import React, { useState, useEffect, useRef, useMemo } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import React, { useState, useEffect } from 'react';
+    |        ^^^^^
+  5 |
+  6 | // ==========================================================
+  7 | // 1. THE ARCHITECT RENDERER (Supports All 7 References)
+
+the name `React` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/portfolio builder/app/page.js [Client Component Browser]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./Desktop/portfolio builder/app/page.js [Client Component SSR]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+[00:42:58.310] Browser ERROR   ./Desktop/portfolio builder/app/page.js:4:27
+Ecmascript file had an error
+  2 | import React, { useState, useEffect, useRef, useMemo } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import React, { useState, useEffect } from 'react';
+    |                           ^^^^^^^^^
+  5 |
+  6 | // ==========================================================
+  7 | // 1. THE ARCHITECT RENDERER (Supports All 7 References)
+
+the name `useEffect` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/portfolio builder/app/page.js [Client Component Browser]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./Desktop/portfolio builder/app/page.js [Client Component SSR]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+[00:42:58.310] Browser ERROR   ./Desktop/portfolio builder/app/page.js:4:17
+Ecmascript file had an error
+  2 | import React, { useState, useEffect, useRef, useMemo } from 'react';
+  3 | import Link from 'next/link';
+> 4 | import React, { useState, useEffect } from 'react';
+    |                 ^^^^^^^^
+  5 |
+  6 | // ==========================================================
+  7 | // 1. THE ARCHITECT RENDERER (Supports All 7 References)
+
+the name `useState` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./Desktop/portfolio builder/app/page.js [Client Component Browser]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./Desktop/portfolio builder/app/page.js [Client Component SSR]
+    ./Desktop/portfolio builder/app/page.js [Server Component]
+[00:50:33.913] Server  LOG     ✓ Compiled in 23ms
+[01:03:22.659] Server  LOG     ✓ Compiled in 43ms
+[01:04:57.426] Server  LOG     ✓ Compiled in 25ms
+[01:05:03.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:39.898] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

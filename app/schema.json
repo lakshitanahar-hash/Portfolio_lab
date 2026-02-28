@@ -1,0 +1,24 @@
+{
+  "projectTitle": "My First Portfolio",
+  "owner": "Lakshita Nahar",
+  "theme": {
+    "primaryColor": "#6366f1",
+    "fontFamily": "Inter",
+    "darkMode": true
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "title": "Creative Full Stack Developer",
+        "subtitle": "I build platforms that build platforms."
+      }
+    },
+    {
+      "type": "about",
+      "data": {
+        "text": "Based in Ajmer, working on high-scale automation."
+      }
+    }
+  ]
+}
